@@ -2,6 +2,11 @@
 
 A premium, fully 3D, interactive portfolio website built with React, Three.js, and Framer Motion. Features futuristic design with glassmorphism, neon accents, and smooth animations.
 
+## 🔗 Live Demo  
+🚀 https://akashsharma-portfolio.vercel.app  
+
+[![Live Demo](https://img.shields.io/badge/Visit-Live%20Site-brightgreen?style=for-the-badge)](https://akashsharma-portfolio.vercel.app)
+
 ![alt text](public/akashsharma.png)
 
 ## 🚀 Features
