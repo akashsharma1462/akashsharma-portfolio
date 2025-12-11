@@ -2,7 +2,7 @@
 
 A premium, fully 3D, interactive portfolio website built with React, Three.js, and Framer Motion. Features futuristic design with glassmorphism, neon accents, and smooth animations.
 
-![Portfolio Preview](./preview.png)
+![alt text](public/akashsharma.png)
 
 ## 🚀 Features
 
