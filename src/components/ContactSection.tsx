@@ -7,6 +7,7 @@ import emailjs from '@emailjs/browser';
 
 // ==========================================
 // EMAILJS CONFIGURATION - UPDATE THESE VALUES
+// Create .env.local with these keys for local dev.
 // ==========================================
 // 1. Go to https://www.emailjs.com/ and create an account
 // 2. Add an Email Service (Gmail, Outlook, etc.)
@@ -14,9 +15,9 @@ import emailjs from '@emailjs/browser';
 // 4. Get your Public Key from Account > API Keys
 // 5. Replace the values below:
 
-const EMAILJS_SERVICE_ID = 'service_8j8kofg';     // e.g., 'service_abc123'
-const EMAILJS_TEMPLATE_ID = 'template_vd0rhlv';   // e.g., 'template_xyz789'
-const EMAILJS_PUBLIC_KEY = 'ZaR-zbPKK4zCGDb3g';     // e.g., 'AbCdEfGhIjKlMnOp'
+const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID || '';
+const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID || '';
+const EMAILJS_PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY || '';
 
 // ==========================================
 
