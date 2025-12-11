@@ -52,8 +52,8 @@ A premium, fully 3D, interactive portfolio website built with React, Three.js, a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
+   git clone https://github.com/akashsharma1462/akashsharma-portfolio.git
+   cd akashsharma-portfolio
    ```
 
 2. **Install dependencies**
@@ -188,7 +188,6 @@ MIT License - feel free to use this template for your own portfolio!
 
 ## 🤝 Credits
 
-- Built with [Lovable](https://lovable.dev)
 - 3D graphics powered by [Three.js](https://threejs.org)
 - Animations by [Framer Motion](https://www.framer.com/motion/)
 - UI components from [shadcn/ui](https://ui.shadcn.com)
